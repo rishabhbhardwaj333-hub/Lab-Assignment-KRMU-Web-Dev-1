@@ -1,1 +1,1 @@
-
+This HTML project is a personal portfolio website that showcases an individual’s profile, skills, and projects. It is structured into clear sections — Hero, About, Projects, Skills, and Contact. Using semantic HTML elements for better readability and accessibility. The header contains navigation links for smooth scrolling within the page, while each section provides specific information. The purpose of this project is to create a basic, responsive, and well-organized personal website to present one’s web development journey and abilities.
