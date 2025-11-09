@@ -1,0 +1,42 @@
+*{text-align: center;}
+
+header{background-color: blue;
+color:antiquewhite;
+word-spacing: 5px;
+position:static;
+
+width: 100%;
+top: 0;
+border: 2px solid rgb(40, 40, 65);
+}
+#am{padding-top: 115px;}
+
+h1{font-size: 50px;}
+
+img{border-radius: 50%;}
+
+table{margin: auto;
+border: 2px solid blue;
+width: 500px;
+}
+.cl{ background-color: blue;
+color: white;}
+th,td{padding:10px;}
+
+.do{border: 2px solid black ;
+width: 500px;
+height: 150px;
+margin: auto;
+background-color: rgb(114, 17, 136);
+padding-top: 50px;
+
+color: grey;
+}
+button{background-color: blue;
+color: white;  }
+a{color: white;
+word-spacing: 50px;}
+
+#jo{position: relative;
+left: 500px;
+}
