@@ -1,0 +1,1 @@
+This project is a simple JavaScript quiz game that runs entirely within the web browser's developer console. It demonstrates core JavaScript concepts including arrays, loops, conditionals, functions, and user input/output handling.
